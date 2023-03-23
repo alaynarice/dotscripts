@@ -1,9 +1,8 @@
 # dotscripts
 
-## Download this repository and extract its contents into your bin folder.
-
 ## How to Install
-### Run `make link`
+Download this repository and extract its contents into your bin folder.
+Run `make link`, now a symbolic link will be created in your `.scripts` folder.
 
 ## How to Uninstall
-### Run `make unlink`
+Run `make unlink`
